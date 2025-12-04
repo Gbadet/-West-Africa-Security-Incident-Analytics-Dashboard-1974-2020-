@@ -13,7 +13,7 @@ The dashboard helps answer critical security-related questions:
 
 ---
 ## Data Source
-[Download here]()
+[Download here](gtd_crime_west_africa.csv)
 
 ---
 
